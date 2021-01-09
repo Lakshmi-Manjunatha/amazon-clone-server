@@ -1,4 +1,4 @@
-package com.amazon.clone.products.productsservice;
+package com.amazon.clone.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
